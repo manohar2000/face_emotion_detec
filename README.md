@@ -1,4 +1,4 @@
-# face_emotion_recog
+# Facial Emotion Recognition
 Deployment mode : Via Flask backend [ runs on the localhost]
 
 Task : Develop convolutional neural network (CNN) in Keras from scratch to recognize facial expressions.
